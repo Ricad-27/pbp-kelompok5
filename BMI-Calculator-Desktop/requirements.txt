@@ -1,0 +1,5 @@
+# Dependensi Proyek Kalkulator BMI Indonesia
+# Aplikasi GUI utama menggunakan pustaka standar Python (Tkinter & ttk) tanpa dependensi eksternal.
+# PyInstaller hanya diperlukan saat kompilasi file executable (.exe).
+
+pyinstaller>=6.0.0

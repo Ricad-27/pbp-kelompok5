@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller temporary build artifacts
+build/
+*.spec
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
